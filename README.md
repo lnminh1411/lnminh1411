@@ -14,4 +14,6 @@ I'm a 15yrs old self-taught developer from Vietnam! 🇻🇳
 <img src="https://github-profile-trophy.vercel.app/?username=lnminh1411&theme=algolia&no-frame=true&no-bg=true&title=Joined2020,Experience,Commits,Issues,PullRequest,Repositories,Followers,Stars" />
 <img src="https://github-readme-stats.vercel.app/api?username=lnminh1411&show_icons=true&theme=transparent&hide_border=true" />
 <img src="https://github-readme-stats.vercel.app/api/top-langs?username=lnminh1411&layout=compact&hide_border=true&langs_count=8&card_width=320&theme=transparent" />
+<img class="streak" src="https://github-readme-streak-stats.herokuapp.com/?user=lnminh1411&theme=transparent&hide_border=true">
+<img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=lnminh1411&theme=transparent">
 </div>
