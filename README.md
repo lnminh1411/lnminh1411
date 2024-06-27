@@ -16,5 +16,9 @@ I'm a 15yrs old self-taught developer from Vietnam! 🇻🇳
 <img src="https://github-readme-stats.vercel.app/api?username=lnminh1411&show_icons=true&theme=transparent&hide_border=true" />
 <img src="https://github-readme-stats.vercel.app/api/top-langs?username=lnminh1411&layout=compact&hide_border=true&langs_count=8&card_width=320&theme=transparent" />
 <img class="streak" src="https://github-readme-streak-stats.herokuapp.com/?user=lnminh1411&theme=transparent&hide_border=true">
-<img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=lnminh1411&theme=transparent">
+</div>
+<br /><br />
+<h3 align="center">Contact me on:</h3>
+<div>
+<a href=https://discord.com/users/1243939761614356544 target=_blank onMouseOver="this.style.opacity='.3'" onMouseOut="this.style.opacity='.8'"><i data-aos="fade-in" class="bi bi-discord h3"></i>&emsp;</a>
 </div>
