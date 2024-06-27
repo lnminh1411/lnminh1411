@@ -1,6 +1,7 @@
 <p align="center"><a href="https://lnminh1411.is-a.dev"><img width="80%" alt="Hello! I'm LNMinh. I make unnecessary codes" src="./imgs/h.png" /></a></p>
 
 I'm a 15yrs old self-taught developer from Vietnam! 🇻🇳 
+<h2>
 <div align="center">
 <img src="https://img.shields.io/badge/Python-14354C?style=for-the-badge&logo=python&logoColor=white" alt="Python">
 <img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black" alt="Javascript">
@@ -8,7 +9,7 @@ I'm a 15yrs old self-taught developer from Vietnam! 🇻🇳
 <img src="https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white" alt="HTML">
 <img src="https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white" alt="CSS">
 </div>
-<h2>&emsp;</h2>
+</h2>
 
 <h3 align="center">Contact me on:</h3>
 <div align="center">
