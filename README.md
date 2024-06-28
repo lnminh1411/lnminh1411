@@ -1,4 +1,4 @@
-<p align="center"><a href="https://lnminh1411.is-a.dev"><img width="80%" alt="Hello! I'm LNMinh. I make unnecessary codes" src="./imgs/h.png" /></a></p>
+<p align="center"><a href="https://lnminh1411.is-a.dev"><img width="100%" alt="Hello! I'm LNMinh. I make unnecessary codes" src="./imgs/h.png" /></a></p>
 
 I'm a 15yrs old self-taught developer from Vietnam! 🇻🇳 
 <h2>
@@ -16,7 +16,8 @@ I'm a 15yrs old self-taught developer from Vietnam! 🇻🇳
 <a href=https://discord.com/users/1243939761614356544 target=_blank><img src="./imgs/discord.svg" width=3% height=3%></a>&emsp;
 <a href=https://www.instagram.com/lenhatminh1411 target=_blank><img src="./imgs/instagram.svg" width=3% height=3%></a>&emsp;
 <a href=https://m.me/lenhatminh1411 target=_blank><img src="./imgs/messenger.svg" width=3% height=3%></a>&emsp;
-<a href=https://www.facebook.com/lenhatminh1411 target=_blank><img src="./imgs/facebook.svg" width=3% height=3%></a>
+<a href=https://www.facebook.com/lenhatminh1411 target=_blank><img src="./imgs/facebook.svg" width=3% height=3%></a>&emsp;
+<a href="mailto:nhatminh.forwarding@gmail.com" target=_blank><img src="./imgs/envelope-at.svg" width=3% height=3%></a>
 </div>
 
 <br />
