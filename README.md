@@ -15,9 +15,9 @@ I'm a 15yrs old self-taught developer from Vietnam! 🇻🇳
 <h3 align="center">Contact me on:</h3>
 <div align="center">
 <a href=https://discord.com/users/1243939761614356544 target=_blank><img src="./imgs/discord.svg" width=3% height=3%></a>&emsp;
-<a href=https://www.instagram.com/lenhatminh1411 target=_blank><img src="./imgs/instagram.svg" width=3% height=3%></a>&emsp;
-<a href=https://m.me/lenhatminh1411 target=_blank><img src="./imgs/messenger.svg" width=3% height=3%></a>&emsp;
-<a href=https://www.facebook.com/lenhatminh1411 target=_blank><img src="./imgs/facebook.svg" width=3% height=3%></a>&emsp;
+<a href=https://www.instagram.com/im.lnminh141 target=_blank><img src="./imgs/instagram.svg" width=3% height=3%></a>&emsp;
+<a href=https://m.me/im.lnminh141 target=_blank><img src="./imgs/messenger.svg" width=3% height=3%></a>&emsp;
+<a href=https://www.facebook.com/im.lnminh141 target=_blank><img src="./imgs/facebook.svg" width=3% height=3%></a>&emsp;
 <a href="mailto:contact@lnminh1411.is-a.dev" target=_blank><img src="./imgs/envelope-at.svg" width=3% height=3%></a>
 </div>
 
