@@ -15,9 +15,9 @@ I'm a 15yrs old self-taught developer from Vietnam! 🇻🇳
 <h3 align="center">Contact me on:</h3>
 <div align="center">
 <a href=https://discord.com/users/1243939761614356544 target=_blank><img src="./imgs/discord.svg" width=3% height=3%></a>&emsp;
-<a href=https://www.instagram.com/im.lnminh141 target=_blank><img src="./imgs/instagram.svg" width=3% height=3%></a>&emsp;
-<a href=https://m.me/im.lnminh141 target=_blank><img src="./imgs/messenger.svg" width=3% height=3%></a>&emsp;
-<a href=https://www.facebook.com/im.lnminh141 target=_blank><img src="./imgs/facebook.svg" width=3% height=3%></a>&emsp;
+<a href=https://www.instagram.com/im.lnminh1411 target=_blank><img src="./imgs/instagram.svg" width=3% height=3%></a>&emsp;
+<a href=https://m.me/im.lnminh1411 target=_blank><img src="./imgs/messenger.svg" width=3% height=3%></a>&emsp;
+<a href=https://www.facebook.com/im.lnminh1411 target=_blank><img src="./imgs/facebook.svg" width=3% height=3%></a>&emsp;
 <a href="mailto:contact@lnminh1411.is-a.dev" target=_blank><img src="./imgs/envelope-at.svg" width=3% height=3%></a>
 </div>
 
@@ -29,3 +29,4 @@ I'm a 15yrs old self-taught developer from Vietnam! 🇻🇳
 <img src="https://github-readme-stats.vercel.app/api/top-langs?username=lnminh1411&layout=compact&hide_border=true&langs_count=8&card_width=320&theme=transparent" />
 <img class="streak" src="https://github-readme-streak-stats.herokuapp.com/?user=lnminh1411&theme=transparent&hide_border=true">
 </div>
+
