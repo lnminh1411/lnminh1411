@@ -1,6 +1,6 @@
 <p align="center"><a href="https://lnminh1411.is-a.dev"><img width="100%" alt="Hello! I'm LNMinh. I make unnecessary codes" src="./imgs/h.png" /></a></p>
 
-I'm a 15yrs old self-taught developer from Vietnam! 🇻🇳 
+I'm a 16yrs old self-taught developer from Vietnam! 🇻🇳 
 <h2>
 <div align="center">
 <img src="https://shields.io/badge/Python-14354C?style=for-the-badge&logo=python&logoColor=white" alt="Python">
@@ -29,4 +29,5 @@ I'm a 15yrs old self-taught developer from Vietnam! 🇻🇳
 <img src="https://github-readme-stats.vercel.app/api/top-langs?username=lnminh1411&layout=compact&hide_border=true&langs_count=8&card_width=320&theme=transparent" />
 <img class="streak" src="https://github-readme-streak-stats.herokuapp.com/?user=lnminh1411&theme=transparent&hide_border=true">
 </div>
+
 
