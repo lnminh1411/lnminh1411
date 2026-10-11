@@ -47,7 +47,7 @@
 
 ## Featured projects
 
-<p>
+<p align="center">
 <a href="https://github.com/lnminh1411/ESP32-PC-Control-System"><picture><source media="(prefers-color-scheme: dark)" srcset="https://lnminh-stats.vercel.app/api/pin?username=lnminh1411&repo=ESP32-PC-Control-System&hide_border=true&bg_color=1e1e2e&title_color=cba6f7&text_color=cdd6f4&icon_color=cba6f7"><source media="(prefers-color-scheme: light)" srcset="https://lnminh-stats.vercel.app/api/pin?username=lnminh1411&repo=ESP32-PC-Control-System&hide_border=true&bg_color=eff1f5&title_color=8839ef&text_color=4c4f69&icon_color=8839ef"><img src="https://lnminh-stats.vercel.app/api/pin?username=lnminh1411&repo=ESP32-PC-Control-System&hide_border=true&bg_color=1e1e2e&title_color=cba6f7&text_color=cdd6f4&icon_color=cba6f7" alt="ESP32-PC-Control-System"></picture></a>
 <a href="https://github.com/lnminh1411/P2B-VAIC-Hackathon"><picture><source media="(prefers-color-scheme: dark)" srcset="https://lnminh-stats.vercel.app/api/pin?username=lnminh1411&repo=P2B-VAIC-Hackathon&hide_border=true&bg_color=1e1e2e&title_color=cba6f7&text_color=cdd6f4&icon_color=cba6f7"><source media="(prefers-color-scheme: light)" srcset="https://lnminh-stats.vercel.app/api/pin?username=lnminh1411&repo=P2B-VAIC-Hackathon&hide_border=true&bg_color=eff1f5&title_color=8839ef&text_color=4c4f69&icon_color=8839ef"><img src="https://lnminh-stats.vercel.app/api/pin?username=lnminh1411&repo=P2B-VAIC-Hackathon&hide_border=true&bg_color=1e1e2e&title_color=cba6f7&text_color=cdd6f4&icon_color=cba6f7" alt="P2B-VAIC-Hackathon"></picture></a>
 </p>
@@ -74,7 +74,7 @@ Extra     ESP32-S3 N16R8 control board
 ## Stats
 
 <p align="center">
-<picture><source media="(prefers-color-scheme: dark)" srcset="https://lnminh-trophy.vercel.app/?username=lnminh1411&theme=catppuccin_mocha&no-frame=true&no-bg=true&column=4&title=Joined2020,Experience,Commits,Issues,PullRequest,Repositories,Followers,Stars"><source media="(prefers-color-scheme: light)" srcset="https://lnminh-trophy.vercel.app/?username=lnminh1411&theme=catppuccin_latte&no-frame=true&no-bg=true&column=4&title=Joined2020,Experience,Commits,Issues,PullRequest,Repositories,Followers,Stars"><img src="https://lnminh-trophy.vercel.app/?username=lnminh1411&theme=catppuccin_mocha&no-frame=true&no-bg=true&column=4&title=Joined2020,Experience,Commits,Issues,PullRequest,Repositories,Followers,Stars" alt="GitHub trophies"></picture>
+<picture><source media="(prefers-color-scheme: dark)" srcset="https://lnminh-trophy.vercel.app/?username=lnminh1411&theme=catppuccin_mocha&column=4&no-frame=true&no-bg=true&title=Joined2020,Experience,Commits,Issues,PullRequest,Repositories,Followers,Stars"><source media="(prefers-color-scheme: light)" srcset="https://lnminh-trophy.vercel.app/?username=lnminh1411&theme=catppuccin_latte&column=4&no-frame=true&no-bg=true&title=Joined2020,Experience,Commits,Issues,PullRequest,Repositories,Followers,Stars"><img src="https://lnminh-trophy.vercel.app/?username=lnminh1411&theme=catppuccin_mocha&column=4&no-frame=true&no-bg=true&title=Joined2020,Experience,Commits,Issues,PullRequest,Repositories,Followers,Stars" alt="GitHub trophies"></picture>
 </p>
 
 <p align="center">
