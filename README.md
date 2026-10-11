@@ -13,6 +13,7 @@
   Website: <a href="https://lnminh1411.is-a.dev">lnminh1411.is-a.dev</a>
 </p>
 
+<!-- VS Code icon: Codicons by Microsoft (github.com/microsoft/vscode-codicons), CC BY 4.0 -->
 <table align="center" width="100%">
 <tr><th width="33%">Skills, without AI assistance</th><th width="33%">Tools I use</th><th width="33%">AI agents</th></tr>
 <tr>
@@ -29,8 +30,7 @@
 <a href="https://learn.microsoft.com/windows/wsl/"><img src="./assets/badges/list/wsl.svg" alt="WSL" width="100%"></a><br>
 <a href="https://ubuntu.com/"><img src="./assets/badges/list/ubuntu.svg" alt="Ubuntu" width="100%"></a><br>
 <a href="https://brave.com/download-nightly/"><img src="./assets/badges/list/brave-nightly.svg" alt="Brave Nightly" width="100%"></a><br>
-<a href="https://code.visualstudio.com/insiders/"><img src="./assets/badges/list/vs-code-insiders.svg" alt="VS Code Insiders" width="100%"></a><br>
-<a href="https://visualstudio.microsoft.com/"><img src="./assets/badges/list/visual-studio.svg" alt="Visual Studio" width="100%"></a>
+<a href="https://code.visualstudio.com/insiders/"><img src="./assets/badges/list/vscode-insiders.svg" alt="VS Code Insiders" width="100%"></a>
 </td>
 <td width="33%" align="center" valign="top">
 <a href="https://claude.com/claude-code"><img src="./assets/badges/list/claude-code.svg" alt="Claude Code" width="100%"></a><br>
