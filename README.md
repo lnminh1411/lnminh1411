@@ -92,7 +92,6 @@ Extra     ESP32-S3 N16R8 control board
 <a href="https://www.instagram.com/im.lnminh1411"><img src="./assets/badges/instagram.svg" alt="Instagram"></a>
 <a href="https://www.facebook.com/im.lnminh1411"><img src="./assets/badges/facebook.svg" alt="Facebook"></a>
 <a href="https://www.linkedin.com/in/nh%E1%BA%ADt-minh-l%C3%AA-a087a5425/"><img src="./assets/badges/linkedin.svg" alt="LinkedIn"></a>
-<a href="https://m.me/im.lnminh1411"><img src="./assets/badges/messenger.svg" alt="Messenger"></a>
 </p>
 
 <p align="center">
