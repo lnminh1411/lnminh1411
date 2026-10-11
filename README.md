@@ -3,7 +3,7 @@
     <picture>
       <source media="(prefers-color-scheme: dark)" srcset="./assets/banner-dark.svg">
       <source media="(prefers-color-scheme: light)" srcset="./assets/banner-light.svg">
-      <img src="./assets/banner-dark.svg" width="100%" alt="lnminh@vn:~$ whoami - Lê Nhật Minh - Making solutions to non-existence problems">
+      <img src="./assets/banner-dark.svg" width="100%" alt="lnminh@vn:~$ whoami - Lê Nhật Minh - Making solutions to non-existent problems">
     </picture>
   </a>
 </p>
