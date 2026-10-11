@@ -30,7 +30,9 @@
 <a href="https://learn.microsoft.com/windows/wsl/"><img src="./assets/badges/table/wsl.svg" alt="WSL" width="100%"></a><br>
 <a href="https://brave.com/download-nightly/"><img src="./assets/badges/table/brave-nightly.svg" alt="Brave Nightly" width="100%"></a><br>
 <a href="https://code.visualstudio.com/insiders/"><img src="./assets/badges/table/vscode-insiders.svg" alt="VS Code Insiders" width="100%"></a><br>
-<a href="https://www.kicad.org/"><img src="./assets/badges/table/kicad.svg" alt="KiCad" width="100%"></a>
+<a href="https://www.kicad.org/"><img src="./assets/badges/table/kicad.svg" alt="KiCad" width="100%"></a><br>
+<a href="https://openclaw.ai"><img src="./assets/badges/table/openclaw.svg" alt="OpenClaw" width="100%"></a><br>
+<a href="https://github.com/deepseek-ai/DeepSeek-Harness"><img src="./assets/badges/table/deepseek-harness.svg" alt="DeepSeek Harness" width="100%"></a>
 </td>
 <td width="33%" align="center" valign="top">
 <a href="https://claude.com/claude-code"><img src="./assets/badges/table/claude-code.svg" alt="Claude Code" width="100%"></a><br>
