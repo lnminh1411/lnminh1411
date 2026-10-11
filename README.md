@@ -16,33 +16,31 @@
 <h2 align="center">Skills, without AI assistance</h2>
 
 <p align="center">
-<a href="https://www.python.org/"><img src="https://img.shields.io/badge/Python-313244?style=for-the-badge&labelColor=313244&logo=python&logoColor=cdd6f4" alt="Python"></a>
-<a href="https://developer.mozilla.org/docs/Web/JavaScript"><img src="https://img.shields.io/badge/JavaScript-313244?style=for-the-badge&labelColor=313244&logo=javascript&logoColor=cdd6f4" alt="JavaScript"></a>
-<a href="https://www.typescriptlang.org/"><img src="https://img.shields.io/badge/TypeScript-313244?style=for-the-badge&labelColor=313244&logo=typescript&logoColor=cdd6f4" alt="TypeScript"></a>
-<a href="https://nodejs.org/"><img src="https://img.shields.io/badge/Node.js-313244?style=for-the-badge&labelColor=313244&logo=nodedotjs&logoColor=cdd6f4" alt="Node.js"></a>
-<a href="https://developer.mozilla.org/docs/Web/HTML"><img src="https://img.shields.io/badge/HTML5-313244?style=for-the-badge&labelColor=313244&logo=html5&logoColor=cdd6f4" alt="HTML5"></a>
-<a href="https://developer.mozilla.org/docs/Web/CSS"><img src="https://img.shields.io/badge/CSS-313244?style=for-the-badge&labelColor=313244&logo=css&logoColor=cdd6f4" alt="CSS"></a>
+<a href="https://www.python.org/"><img src="./assets/badges/python.svg" alt="Python"></a>
+<a href="https://developer.mozilla.org/docs/Web/JavaScript"><img src="./assets/badges/javascript.svg" alt="JavaScript"></a>
+<a href="https://www.typescriptlang.org/"><img src="./assets/badges/typescript.svg" alt="TypeScript"></a>
+<a href="https://nodejs.org/"><img src="./assets/badges/node-js.svg" alt="Node.js"></a>
+<a href="https://developer.mozilla.org/docs/Web/HTML"><img src="./assets/badges/html5.svg" alt="HTML5"></a>
+<a href="https://developer.mozilla.org/docs/Web/CSS"><img src="./assets/badges/css.svg" alt="CSS"></a>
 </p>
 
 <h2 align="center">Tools I use</h2>
 
 <p align="center">
-<a href="https://github.com/microsoft/terminal"><img src="https://img.shields.io/badge/Windows_Terminal-313244?style=for-the-badge&labelColor=313244" alt="Windows Terminal"></a>
-<a href="https://git-scm.com/"><img src="https://img.shields.io/badge/Git-313244?style=for-the-badge&labelColor=313244&logo=git&logoColor=cdd6f4" alt="Git"></a>
-<a href="https://aka.ms/CanaryChannelLatest"><img src="https://img.shields.io/badge/Windows_Insider_Canary-313244?style=for-the-badge&labelColor=313244" alt="Windows Insider Canary"></a>
-<a href="https://learn.microsoft.com/windows/wsl/"><img src="https://img.shields.io/badge/WSL-313244?style=for-the-badge&labelColor=313244&logo=linux&logoColor=cdd6f4" alt="WSL"></a>
-<a href="https://ubuntu.com/"><img src="https://img.shields.io/badge/Ubuntu-313244?style=for-the-badge&labelColor=313244&logo=ubuntu&logoColor=cdd6f4" alt="Ubuntu"></a>
-<a href="https://brave.com/download-nightly/"><img src="https://img.shields.io/badge/Brave_Nightly-313244?style=for-the-badge&labelColor=313244&logo=brave&logoColor=cdd6f4" alt="Brave Nightly"></a>
-<a href="https://code.visualstudio.com/insiders/"><img src="https://img.shields.io/badge/VS_Code_Insiders-313244?style=for-the-badge&labelColor=313244" alt="VS Code Insiders"></a>
-<a href="https://visualstudio.microsoft.com/"><img src="https://img.shields.io/badge/Visual_Studio-313244?style=for-the-badge&labelColor=313244" alt="Visual Studio"></a>
+<a href="https://git-scm.com/"><img src="./assets/badges/git.svg" alt="Git"></a>
+<a href="https://learn.microsoft.com/windows/wsl/"><img src="./assets/badges/wsl.svg" alt="WSL"></a>
+<a href="https://ubuntu.com/"><img src="./assets/badges/ubuntu.svg" alt="Ubuntu"></a>
+<a href="https://brave.com/download-nightly/"><img src="./assets/badges/brave-nightly.svg" alt="Brave Nightly"></a>
+<a href="https://code.visualstudio.com/insiders/"><img src="./assets/badges/vs-code-insiders.svg" alt="VS Code Insiders"></a>
+<a href="https://visualstudio.microsoft.com/"><img src="./assets/badges/visual-studio.svg" alt="Visual Studio"></a>
 </p>
 
 <h2 align="center">AI agents</h2>
 
 <p align="center">
-<a href="https://claude.com/claude-code"><img src="https://img.shields.io/badge/Claude_Code-313244?style=for-the-badge&labelColor=313244&logo=claude&logoColor=cdd6f4" alt="Claude Code"></a>
-<a href="https://antigravity.google"><img src="https://img.shields.io/badge/Google_Antigravity-313244?style=for-the-badge&labelColor=313244&logo=googlegemini&logoColor=cdd6f4" alt="Google Antigravity"></a>
-<img src="https://img.shields.io/badge/Occamy_1.0_35B--A3B_(local)-313244?style=for-the-badge&labelColor=313244" alt="Occamy 1.0 35B-A3B (local)">
+<a href="https://claude.com/claude-code"><img src="./assets/badges/claude-code.svg" alt="Claude Code"></a>
+<a href="https://antigravity.google"><img src="./assets/badges/google-antigravity.svg" alt="Google Antigravity"></a>
+<img src="./assets/badges/occamy-1-0-35b-a3b-local.svg" alt="Occamy 1.0 35B-A3B (local)">
 </p>
 
 <h2 align="center">Featured projects</h2>
@@ -56,6 +54,7 @@
 <summary><b>My PC</b> (<code>neofetch</code>)</summary>
 
 ```text
+OS        Windows Insider Experimental (Future Platforms)
 CPU       Intel Core Ultra 7 265K
 Board     Gigabyte B860M GAMING X WIFI 6E (rev 2.0)
 RAM       64 GB DDR5-6000 CL36 (G.Skill Trident Z5 Neo 2x32)
@@ -89,11 +88,11 @@ Extra     ESP32-S3 N16R8 control board
 <h2 align="center">Contact</h2>
 
 <p align="center">
-<a href="https://discord.com/users/1243939761614356544"><img src="https://img.shields.io/badge/Discord-313244?style=for-the-badge&labelColor=313244&logo=discord&logoColor=cdd6f4" alt="Discord"></a>
-<a href="https://www.instagram.com/im.lnminh1411"><img src="https://img.shields.io/badge/Instagram-313244?style=for-the-badge&labelColor=313244&logo=instagram&logoColor=cdd6f4" alt="Instagram"></a>
-<a href="https://www.facebook.com/im.lnminh1411"><img src="https://img.shields.io/badge/Facebook-313244?style=for-the-badge&labelColor=313244&logo=facebook&logoColor=cdd6f4" alt="Facebook"></a>
-<a href="https://www.linkedin.com/in/nh%E1%BA%ADt-minh-l%C3%AA-a087a5425/"><img src="https://img.shields.io/badge/LinkedIn-313244?style=for-the-badge&labelColor=313244&logo=data:image/svg%2bxml;base64,PHN2ZyB4bWxucz0iaHR0cDovL3d3dy53My5vcmcvMjAwMC9zdmciIHZpZXdCb3g9IjAgMCAyNCAyNCI+PHJlY3QgeD0iMiIgeT0iMiIgd2lkdGg9IjIwIiBoZWlnaHQ9IjIwIiByeD0iMyIgZmlsbD0ibm9uZSIgc3Ryb2tlPSIjY2RkNmY0IiBzdHJva2Utd2lkdGg9IjIiLz48cmVjdCB4PSI2IiB5PSIxMCIgd2lkdGg9IjIuNSIgaGVpZ2h0PSI4IiBmaWxsPSIjY2RkNmY0Ii8+PGNpcmNsZSBjeD0iNy4yNSIgY3k9IjYuNzUiIHI9IjEuNSIgZmlsbD0iI2NkZDZmNCIvPjxwYXRoIGQ9Ik0xMSAxOHYtOGgyLjR2MS4xYy41LS44IDEuNC0xLjMgMi42LTEuMyAyIDAgMyAxLjMgMyAzLjZWMThoLTIuNXYtNC4yYzAtMS4xLS40LTEuOC0xLjQtMS44LTEgMC0xLjYuNy0xLjYgMS44VjE4eiIgZmlsbD0iI2NkZDZmNCIvPjwvc3ZnPg==&logoColor=cdd6f4" alt="LinkedIn"></a>
-<a href="https://m.me/im.lnminh1411"><img src="https://img.shields.io/badge/Messenger-313244?style=for-the-badge&labelColor=313244&logo=messenger&logoColor=cdd6f4" alt="Messenger"></a>
+<a href="https://discord.com/users/1243939761614356544"><img src="./assets/badges/discord.svg" alt="Discord"></a>
+<a href="https://www.instagram.com/im.lnminh1411"><img src="./assets/badges/instagram.svg" alt="Instagram"></a>
+<a href="https://www.facebook.com/im.lnminh1411"><img src="./assets/badges/facebook.svg" alt="Facebook"></a>
+<a href="https://www.linkedin.com/in/nh%E1%BA%ADt-minh-l%C3%AA-a087a5425/"><img src="./assets/badges/linkedin.svg" alt="LinkedIn"></a>
+<a href="https://m.me/im.lnminh1411"><img src="./assets/badges/messenger.svg" alt="Messenger"></a>
 </p>
 
 <p align="center">
