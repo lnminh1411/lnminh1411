@@ -13,29 +13,29 @@
   Website: <a href="https://lnminh1411.is-a.dev">lnminh1411.is-a.dev</a>
 </p>
 
-<table align="center">
-<tr><th>Skills, without AI assistance</th><th>Tools I use</th><th>AI agents</th></tr>
+<table align="center" width="100%">
+<tr><th width="33%">Skills, without AI assistance</th><th width="33%">Tools I use</th><th width="33%">AI agents</th></tr>
 <tr>
-<td align="center" valign="top">
-<a href="https://www.python.org/"><img src="./assets/badges/python.svg" alt="Python"></a><br>
-<a href="https://developer.mozilla.org/docs/Web/JavaScript"><img src="./assets/badges/javascript.svg" alt="JavaScript"></a><br>
-<a href="https://www.typescriptlang.org/"><img src="./assets/badges/typescript.svg" alt="TypeScript"></a><br>
-<a href="https://nodejs.org/"><img src="./assets/badges/node-js.svg" alt="Node.js"></a><br>
-<a href="https://developer.mozilla.org/docs/Web/HTML"><img src="./assets/badges/html5.svg" alt="HTML5"></a><br>
-<a href="https://developer.mozilla.org/docs/Web/CSS"><img src="./assets/badges/css.svg" alt="CSS"></a>
+<td width="33%" align="center" valign="top">
+<a href="https://www.python.org/"><img src="./assets/badges/python.svg" alt="Python" width="100%"></a><br>
+<a href="https://developer.mozilla.org/docs/Web/JavaScript"><img src="./assets/badges/javascript.svg" alt="JavaScript" width="100%"></a><br>
+<a href="https://www.typescriptlang.org/"><img src="./assets/badges/typescript.svg" alt="TypeScript" width="100%"></a><br>
+<a href="https://nodejs.org/"><img src="./assets/badges/node-js.svg" alt="Node.js" width="100%"></a><br>
+<a href="https://developer.mozilla.org/docs/Web/HTML"><img src="./assets/badges/html5.svg" alt="HTML5" width="100%"></a><br>
+<a href="https://developer.mozilla.org/docs/Web/CSS"><img src="./assets/badges/css.svg" alt="CSS" width="100%"></a>
 </td>
-<td align="center" valign="top">
-<a href="https://git-scm.com/"><img src="./assets/badges/git.svg" alt="Git"></a><br>
-<a href="https://learn.microsoft.com/windows/wsl/"><img src="./assets/badges/wsl.svg" alt="WSL"></a><br>
-<a href="https://ubuntu.com/"><img src="./assets/badges/ubuntu.svg" alt="Ubuntu"></a><br>
-<a href="https://brave.com/download-nightly/"><img src="./assets/badges/brave-nightly.svg" alt="Brave Nightly"></a><br>
-<a href="https://code.visualstudio.com/insiders/"><img src="./assets/badges/vs-code-insiders.svg" alt="VS Code Insiders"></a><br>
-<a href="https://visualstudio.microsoft.com/"><img src="./assets/badges/visual-studio.svg" alt="Visual Studio"></a>
+<td width="33%" align="center" valign="top">
+<a href="https://git-scm.com/"><img src="./assets/badges/git.svg" alt="Git" width="100%"></a><br>
+<a href="https://learn.microsoft.com/windows/wsl/"><img src="./assets/badges/wsl.svg" alt="WSL" width="100%"></a><br>
+<a href="https://ubuntu.com/"><img src="./assets/badges/ubuntu.svg" alt="Ubuntu" width="100%"></a><br>
+<a href="https://brave.com/download-nightly/"><img src="./assets/badges/brave-nightly.svg" alt="Brave Nightly" width="100%"></a><br>
+<a href="https://code.visualstudio.com/insiders/"><img src="./assets/badges/vs-code-insiders.svg" alt="VS Code Insiders" width="100%"></a><br>
+<a href="https://visualstudio.microsoft.com/"><img src="./assets/badges/visual-studio.svg" alt="Visual Studio" width="100%"></a>
 </td>
-<td align="center" valign="top">
-<a href="https://claude.com/claude-code"><img src="./assets/badges/claude-code.svg" alt="Claude Code"></a><br>
-<a href="https://antigravity.google"><img src="./assets/badges/google-antigravity.svg" alt="Google Antigravity"></a><br>
-<img src="./assets/badges/occamy-1-0-35b-a3b-local.svg" alt="Occamy 1.0 35B-A3B (local)">
+<td width="33%" align="center" valign="top">
+<a href="https://claude.com/claude-code"><img src="./assets/badges/claude-code.svg" alt="Claude Code" width="100%"></a><br>
+<a href="https://antigravity.google"><img src="./assets/badges/google-antigravity.svg" alt="Google Antigravity" width="100%"></a><br>
+<img src="./assets/badges/occamy-1-0-35b-a3b-local.svg" alt="Occamy 1.0 35B-A3B (local)" width="100%">
 </td>
 </tr>
 </table>
