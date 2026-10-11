@@ -13,35 +13,32 @@
   Website: <a href="https://lnminh1411.is-a.dev">lnminh1411.is-a.dev</a>
 </p>
 
-<h2 align="center">Skills, without AI assistance</h2>
-
-<p align="center">
-<a href="https://www.python.org/"><img src="./assets/badges/python.svg" alt="Python"></a>
-<a href="https://developer.mozilla.org/docs/Web/JavaScript"><img src="./assets/badges/javascript.svg" alt="JavaScript"></a>
-<a href="https://www.typescriptlang.org/"><img src="./assets/badges/typescript.svg" alt="TypeScript"></a>
-<a href="https://nodejs.org/"><img src="./assets/badges/node-js.svg" alt="Node.js"></a>
-<a href="https://developer.mozilla.org/docs/Web/HTML"><img src="./assets/badges/html5.svg" alt="HTML5"></a>
+<table align="center">
+<tr><th>Skills, without AI assistance</th><th>Tools I use</th><th>AI agents</th></tr>
+<tr>
+<td align="center" valign="top">
+<a href="https://www.python.org/"><img src="./assets/badges/python.svg" alt="Python"></a><br>
+<a href="https://developer.mozilla.org/docs/Web/JavaScript"><img src="./assets/badges/javascript.svg" alt="JavaScript"></a><br>
+<a href="https://www.typescriptlang.org/"><img src="./assets/badges/typescript.svg" alt="TypeScript"></a><br>
+<a href="https://nodejs.org/"><img src="./assets/badges/node-js.svg" alt="Node.js"></a><br>
+<a href="https://developer.mozilla.org/docs/Web/HTML"><img src="./assets/badges/html5.svg" alt="HTML5"></a><br>
 <a href="https://developer.mozilla.org/docs/Web/CSS"><img src="./assets/badges/css.svg" alt="CSS"></a>
-</p>
-
-<h2 align="center">Tools I use</h2>
-
-<p align="center">
-<a href="https://git-scm.com/"><img src="./assets/badges/git.svg" alt="Git"></a>
-<a href="https://learn.microsoft.com/windows/wsl/"><img src="./assets/badges/wsl.svg" alt="WSL"></a>
-<a href="https://ubuntu.com/"><img src="./assets/badges/ubuntu.svg" alt="Ubuntu"></a>
-<a href="https://brave.com/download-nightly/"><img src="./assets/badges/brave-nightly.svg" alt="Brave Nightly"></a>
-<a href="https://code.visualstudio.com/insiders/"><img src="./assets/badges/vs-code-insiders.svg" alt="VS Code Insiders"></a>
+</td>
+<td align="center" valign="top">
+<a href="https://git-scm.com/"><img src="./assets/badges/git.svg" alt="Git"></a><br>
+<a href="https://learn.microsoft.com/windows/wsl/"><img src="./assets/badges/wsl.svg" alt="WSL"></a><br>
+<a href="https://ubuntu.com/"><img src="./assets/badges/ubuntu.svg" alt="Ubuntu"></a><br>
+<a href="https://brave.com/download-nightly/"><img src="./assets/badges/brave-nightly.svg" alt="Brave Nightly"></a><br>
+<a href="https://code.visualstudio.com/insiders/"><img src="./assets/badges/vs-code-insiders.svg" alt="VS Code Insiders"></a><br>
 <a href="https://visualstudio.microsoft.com/"><img src="./assets/badges/visual-studio.svg" alt="Visual Studio"></a>
-</p>
-
-<h2 align="center">AI agents</h2>
-
-<p align="center">
-<a href="https://claude.com/claude-code"><img src="./assets/badges/claude-code.svg" alt="Claude Code"></a>
-<a href="https://antigravity.google"><img src="./assets/badges/google-antigravity.svg" alt="Google Antigravity"></a>
+</td>
+<td align="center" valign="top">
+<a href="https://claude.com/claude-code"><img src="./assets/badges/claude-code.svg" alt="Claude Code"></a><br>
+<a href="https://antigravity.google"><img src="./assets/badges/google-antigravity.svg" alt="Google Antigravity"></a><br>
 <img src="./assets/badges/occamy-1-0-35b-a3b-local.svg" alt="Occamy 1.0 35B-A3B (local)">
-</p>
+</td>
+</tr>
+</table>
 
 <h2 align="center">Featured projects</h2>
 
