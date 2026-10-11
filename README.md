@@ -9,8 +9,8 @@
 </p>
 
 <p align="center">
-  Student and self-taught developer from Vietnam 🇻🇳<br>
-  More (and a terminal you can type into) at <a href="https://lnminh1411.is-a.dev">lnminh1411.is-a.dev</a>
+  Student and Self-taught, AI Assisted Developer from Vietnam 🇻🇳<br>
+  Website: <a href="https://lnminh1411.is-a.dev">lnminh1411.is-a.dev</a>
 </p>
 
 <h2 align="center">Skills, without AI assistance</h2>
