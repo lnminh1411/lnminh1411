@@ -92,6 +92,11 @@ Extra     ESP32-S3 N16R8 control board
 <a href="https://discord.com/users/1243939761614356544"><img src="https://img.shields.io/badge/Discord-313244?style=for-the-badge&labelColor=313244&logo=discord&logoColor=cdd6f4" alt="Discord"></a>
 <a href="https://www.instagram.com/im.lnminh1411"><img src="https://img.shields.io/badge/Instagram-313244?style=for-the-badge&labelColor=313244&logo=instagram&logoColor=cdd6f4" alt="Instagram"></a>
 <a href="https://www.facebook.com/im.lnminh1411"><img src="https://img.shields.io/badge/Facebook-313244?style=for-the-badge&labelColor=313244&logo=facebook&logoColor=cdd6f4" alt="Facebook"></a>
+<a href="https://www.linkedin.com/in/nh%E1%BA%ADt-minh-l%C3%AA-a087a5425/"><img src="https://img.shields.io/badge/LinkedIn-313244?style=for-the-badge&labelColor=313244&logo=data:image/svg%2bxml;base64,PHN2ZyB4bWxucz0iaHR0cDovL3d3dy53My5vcmcvMjAwMC9zdmciIHZpZXdCb3g9IjAgMCAyNCAyNCI+PHJlY3QgeD0iMiIgeT0iMiIgd2lkdGg9IjIwIiBoZWlnaHQ9IjIwIiByeD0iMyIgZmlsbD0ibm9uZSIgc3Ryb2tlPSIjY2RkNmY0IiBzdHJva2Utd2lkdGg9IjIiLz48cmVjdCB4PSI2IiB5PSIxMCIgd2lkdGg9IjIuNSIgaGVpZ2h0PSI4IiBmaWxsPSIjY2RkNmY0Ii8+PGNpcmNsZSBjeD0iNy4yNSIgY3k9IjYuNzUiIHI9IjEuNSIgZmlsbD0iI2NkZDZmNCIvPjxwYXRoIGQ9Ik0xMSAxOHYtOGgyLjR2MS4xYy41LS44IDEuNC0xLjMgMi42LTEuMyAyIDAgMyAxLjMgMyAzLjZWMThoLTIuNXYtNC4yYzAtMS4xLS40LTEuOC0xLjQtMS44LTEgMC0xLjYuNy0xLjYgMS44VjE4eiIgZmlsbD0iI2NkZDZmNCIvPjwvc3ZnPg==&logoColor=cdd6f4" alt="LinkedIn"></a>
 <a href="https://m.me/im.lnminh1411"><img src="https://img.shields.io/badge/Messenger-313244?style=for-the-badge&labelColor=313244&logo=messenger&logoColor=cdd6f4" alt="Messenger"></a>
-<a href="mailto:contact@lnminh1411.is-a.dev"><img src="https://img.shields.io/badge/Email-313244?style=for-the-badge&labelColor=313244&logo=data:image/svg%2bxml;base64,PHN2ZyB4bWxucz0iaHR0cDovL3d3dy53My5vcmcvMjAwMC9zdmciIHZpZXdCb3g9IjAgMCAyNCAyNCIgZmlsbD0ibm9uZSIgc3Ryb2tlPSIjY2RkNmY0IiBzdHJva2Utd2lkdGg9IjIiIHN0cm9rZS1saW5lY2FwPSJyb3VuZCIgc3Ryb2tlLWxpbmVqb2luPSJyb3VuZCI+PHJlY3Qgd2lkdGg9IjIwIiBoZWlnaHQ9IjE2IiB4PSIyIiB5PSI0IiByeD0iMiIvPjxwYXRoIGQ9Im0yMiA3LTguOTcgNS43YTEuOTQgMS45NCAwIDAgMS0yLjA2IDBMMiA3Ii8+PC9zdmc+&logoColor=cdd6f4" alt="Email"></a>
 </p>
+
+**Email**
+
+- [contact@lnminh1411.is-a.dev](mailto:contact@lnminh1411.is-a.dev)
+- [it@bsb-travel.com](mailto:it@bsb-travel.com)
