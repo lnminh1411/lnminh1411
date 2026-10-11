@@ -74,7 +74,7 @@ Extra     ESP32-S3 N16R8 control board
 ## Stats
 
 <p align="center">
-<picture><source media="(prefers-color-scheme: dark)" srcset="https://lnminh-trophy.vercel.app/?username=lnminh1411&theme=catppuccin_mocha&column=4&no-frame=true&no-bg=true&title=Joined2020,Experience,Commits,Issues,PullRequest,Repositories,Followers,Stars"><source media="(prefers-color-scheme: light)" srcset="https://lnminh-trophy.vercel.app/?username=lnminh1411&theme=catppuccin_latte&column=4&no-frame=true&no-bg=true&title=Joined2020,Experience,Commits,Issues,PullRequest,Repositories,Followers,Stars"><img src="https://lnminh-trophy.vercel.app/?username=lnminh1411&theme=catppuccin_mocha&column=4&no-frame=true&no-bg=true&title=Joined2020,Experience,Commits,Issues,PullRequest,Repositories,Followers,Stars" alt="GitHub trophies"></picture>
+<picture><source media="(prefers-color-scheme: dark)" srcset="https://lnminh-trophy.vercel.app/?username=lnminh1411&theme=catppuccin_mocha&column=4&no-frame=true&no-bg=true&title=Joined2020%2CExperience%2CCommits%2CIssues%2CPullRequest%2CRepositories%2CFollowers%2CStars"><source media="(prefers-color-scheme: light)" srcset="https://lnminh-trophy.vercel.app/?username=lnminh1411&theme=catppuccin_latte&column=4&no-frame=true&no-bg=true&title=Joined2020%2CExperience%2CCommits%2CIssues%2CPullRequest%2CRepositories%2CFollowers%2CStars"><img src="https://lnminh-trophy.vercel.app/?username=lnminh1411&theme=catppuccin_mocha&column=4&no-frame=true&no-bg=true&title=Joined2020%2CExperience%2CCommits%2CIssues%2CPullRequest%2CRepositories%2CFollowers%2CStars" alt="GitHub trophies"></picture>
 </p>
 
 <p align="center">
