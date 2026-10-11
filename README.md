@@ -17,25 +17,25 @@
 <tr><th width="33%">Skills, without AI assistance</th><th width="33%">Tools I use</th><th width="33%">AI agents</th></tr>
 <tr>
 <td width="33%" align="center" valign="top">
-<a href="https://www.python.org/"><img src="./assets/badges/python.svg" alt="Python" width="100%"></a><br>
-<a href="https://developer.mozilla.org/docs/Web/JavaScript"><img src="./assets/badges/javascript.svg" alt="JavaScript" width="100%"></a><br>
-<a href="https://www.typescriptlang.org/"><img src="./assets/badges/typescript.svg" alt="TypeScript" width="100%"></a><br>
-<a href="https://nodejs.org/"><img src="./assets/badges/node-js.svg" alt="Node.js" width="100%"></a><br>
-<a href="https://developer.mozilla.org/docs/Web/HTML"><img src="./assets/badges/html5.svg" alt="HTML5" width="100%"></a><br>
-<a href="https://developer.mozilla.org/docs/Web/CSS"><img src="./assets/badges/css.svg" alt="CSS" width="100%"></a>
+<a href="https://www.python.org/"><img src="./assets/badges/table/python.svg" alt="Python" width="100%" height="28"></a><br>
+<a href="https://developer.mozilla.org/docs/Web/JavaScript"><img src="./assets/badges/table/javascript.svg" alt="JavaScript" width="100%" height="28"></a><br>
+<a href="https://www.typescriptlang.org/"><img src="./assets/badges/table/typescript.svg" alt="TypeScript" width="100%" height="28"></a><br>
+<a href="https://nodejs.org/"><img src="./assets/badges/table/node-js.svg" alt="Node.js" width="100%" height="28"></a><br>
+<a href="https://developer.mozilla.org/docs/Web/HTML"><img src="./assets/badges/table/html5.svg" alt="HTML5" width="100%" height="28"></a><br>
+<a href="https://developer.mozilla.org/docs/Web/CSS"><img src="./assets/badges/table/css.svg" alt="CSS" width="100%" height="28"></a>
 </td>
 <td width="33%" align="center" valign="top">
-<a href="https://git-scm.com/"><img src="./assets/badges/git.svg" alt="Git" width="100%"></a><br>
-<a href="https://learn.microsoft.com/windows/wsl/"><img src="./assets/badges/wsl.svg" alt="WSL" width="100%"></a><br>
-<a href="https://ubuntu.com/"><img src="./assets/badges/ubuntu.svg" alt="Ubuntu" width="100%"></a><br>
-<a href="https://brave.com/download-nightly/"><img src="./assets/badges/brave-nightly.svg" alt="Brave Nightly" width="100%"></a><br>
-<a href="https://code.visualstudio.com/insiders/"><img src="./assets/badges/vs-code-insiders.svg" alt="VS Code Insiders" width="100%"></a><br>
-<a href="https://visualstudio.microsoft.com/"><img src="./assets/badges/visual-studio.svg" alt="Visual Studio" width="100%"></a>
+<a href="https://git-scm.com/"><img src="./assets/badges/table/git.svg" alt="Git" width="100%" height="28"></a><br>
+<a href="https://learn.microsoft.com/windows/wsl/"><img src="./assets/badges/table/wsl.svg" alt="WSL" width="100%" height="28"></a><br>
+<a href="https://ubuntu.com/"><img src="./assets/badges/table/ubuntu.svg" alt="Ubuntu" width="100%" height="28"></a><br>
+<a href="https://brave.com/download-nightly/"><img src="./assets/badges/table/brave-nightly.svg" alt="Brave Nightly" width="100%" height="28"></a><br>
+<a href="https://code.visualstudio.com/insiders/"><img src="./assets/badges/table/vs-code-insiders.svg" alt="VS Code Insiders" width="100%" height="28"></a><br>
+<a href="https://visualstudio.microsoft.com/"><img src="./assets/badges/table/visual-studio.svg" alt="Visual Studio" width="100%" height="28"></a>
 </td>
 <td width="33%" align="center" valign="top">
-<a href="https://claude.com/claude-code"><img src="./assets/badges/claude-code.svg" alt="Claude Code" width="100%"></a><br>
-<a href="https://antigravity.google"><img src="./assets/badges/google-antigravity.svg" alt="Google Antigravity" width="100%"></a><br>
-<img src="./assets/badges/occamy-1-0-35b-a3b-local.svg" alt="Occamy 1.0 35B-A3B (local)" width="100%">
+<a href="https://claude.com/claude-code"><img src="./assets/badges/table/claude-code.svg" alt="Claude Code" width="100%" height="28"></a><br>
+<a href="https://antigravity.google"><img src="./assets/badges/table/google-antigravity.svg" alt="Google Antigravity" width="100%" height="28"></a><br>
+<img src="./assets/badges/table/occamy-1-0-35b-a3b-local.svg" alt="Occamy 1.0 35B-A3B (local)" width="100%" height="28">
 </td>
 </tr>
 </table>
