@@ -28,7 +28,6 @@
 <td width="33%" align="center" valign="top">
 <a href="https://git-scm.com/"><img src="./assets/badges/list/git.svg" alt="Git" width="100%"></a><br>
 <a href="https://learn.microsoft.com/windows/wsl/"><img src="./assets/badges/list/wsl.svg" alt="WSL" width="100%"></a><br>
-<a href="https://ubuntu.com/"><img src="./assets/badges/list/ubuntu.svg" alt="Ubuntu" width="100%"></a><br>
 <a href="https://brave.com/download-nightly/"><img src="./assets/badges/list/brave-nightly.svg" alt="Brave Nightly" width="100%"></a><br>
 <a href="https://code.visualstudio.com/insiders/"><img src="./assets/badges/list/vscode-insiders.svg" alt="VS Code Insiders" width="100%"></a>
 </td>
