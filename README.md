@@ -17,25 +17,25 @@
 <tr><th width="33%">Skills, without AI assistance</th><th width="33%">Tools I use</th><th width="33%">AI agents</th></tr>
 <tr>
 <td width="33%" align="center" valign="top">
-<a href="https://www.python.org/"><img src="./assets/badges/stack/python.svg" alt="Python" width="100%"></a><br>
-<a href="https://developer.mozilla.org/docs/Web/JavaScript"><img src="./assets/badges/stack/javascript.svg" alt="JavaScript" width="100%"></a><br>
-<a href="https://www.typescriptlang.org/"><img src="./assets/badges/stack/typescript.svg" alt="TypeScript" width="100%"></a><br>
-<a href="https://nodejs.org/"><img src="./assets/badges/stack/node-js.svg" alt="Node.js" width="100%"></a><br>
-<a href="https://developer.mozilla.org/docs/Web/HTML"><img src="./assets/badges/stack/html5.svg" alt="HTML5" width="100%"></a><br>
-<a href="https://developer.mozilla.org/docs/Web/CSS"><img src="./assets/badges/stack/css.svg" alt="CSS" width="100%"></a>
+<a href="https://www.python.org/"><img src="./assets/badges/list/python.svg" alt="Python" width="100%"></a><br>
+<a href="https://developer.mozilla.org/docs/Web/JavaScript"><img src="./assets/badges/list/javascript.svg" alt="JavaScript" width="100%"></a><br>
+<a href="https://www.typescriptlang.org/"><img src="./assets/badges/list/typescript.svg" alt="TypeScript" width="100%"></a><br>
+<a href="https://nodejs.org/"><img src="./assets/badges/list/node-js.svg" alt="Node.js" width="100%"></a><br>
+<a href="https://developer.mozilla.org/docs/Web/HTML"><img src="./assets/badges/list/html5.svg" alt="HTML5" width="100%"></a><br>
+<a href="https://developer.mozilla.org/docs/Web/CSS"><img src="./assets/badges/list/css.svg" alt="CSS" width="100%"></a>
 </td>
 <td width="33%" align="center" valign="top">
-<a href="https://git-scm.com/"><img src="./assets/badges/stack/git.svg" alt="Git" width="100%"></a><br>
-<a href="https://learn.microsoft.com/windows/wsl/"><img src="./assets/badges/stack/wsl.svg" alt="WSL" width="100%"></a><br>
-<a href="https://ubuntu.com/"><img src="./assets/badges/stack/ubuntu.svg" alt="Ubuntu" width="100%"></a><br>
-<a href="https://brave.com/download-nightly/"><img src="./assets/badges/stack/brave-nightly.svg" alt="Brave Nightly" width="100%"></a><br>
-<a href="https://code.visualstudio.com/insiders/"><img src="./assets/badges/stack/vs-code-insiders.svg" alt="VS Code Insiders" width="100%"></a><br>
-<a href="https://visualstudio.microsoft.com/"><img src="./assets/badges/stack/visual-studio.svg" alt="Visual Studio" width="100%"></a>
+<a href="https://git-scm.com/"><img src="./assets/badges/list/git.svg" alt="Git" width="100%"></a><br>
+<a href="https://learn.microsoft.com/windows/wsl/"><img src="./assets/badges/list/wsl.svg" alt="WSL" width="100%"></a><br>
+<a href="https://ubuntu.com/"><img src="./assets/badges/list/ubuntu.svg" alt="Ubuntu" width="100%"></a><br>
+<a href="https://brave.com/download-nightly/"><img src="./assets/badges/list/brave-nightly.svg" alt="Brave Nightly" width="100%"></a><br>
+<a href="https://code.visualstudio.com/insiders/"><img src="./assets/badges/list/vs-code-insiders.svg" alt="VS Code Insiders" width="100%"></a><br>
+<a href="https://visualstudio.microsoft.com/"><img src="./assets/badges/list/visual-studio.svg" alt="Visual Studio" width="100%"></a>
 </td>
 <td width="33%" align="center" valign="top">
-<a href="https://claude.com/claude-code"><img src="./assets/badges/stack/claude-code.svg" alt="Claude Code" width="100%"></a><br>
-<a href="https://antigravity.google"><img src="./assets/badges/stack/google-antigravity.svg" alt="Google Antigravity" width="100%"></a><br>
-<img src="./assets/badges/stack/occamy-1-0-35b-a3b-local.svg" alt="Occamy 1.0 35B-A3B (local)" width="100%">
+<a href="https://claude.com/claude-code"><img src="./assets/badges/list/claude-code.svg" alt="Claude Code" width="100%"></a><br>
+<a href="https://antigravity.google"><img src="./assets/badges/list/google-antigravity.svg" alt="Google Antigravity" width="100%"></a><br>
+<a href="https://github.com/Accio-Lab/occamy"><img src="./assets/badges/list/occamy.svg" alt="Occamy 1.0 35B-A3B" width="100%"></a>
 </td>
 </tr>
 </table>
