@@ -3,7 +3,7 @@
     <picture>
       <source media="(prefers-color-scheme: dark)" srcset="./assets/banner-dark.svg">
       <source media="(prefers-color-scheme: light)" srcset="./assets/banner-light.svg">
-      <img src="./assets/banner-dark.svg" width="100%" alt="lnminh@vn:~$ whoami - Lê Nhật Minh - I make unnecessary codes :)">
+      <img src="./assets/banner-dark.svg" width="100%" alt="lnminh@vn:~$ whoami - Lê Nhật Minh - Making solutions to non-existence problems">
     </picture>
   </a>
 </p>
@@ -56,7 +56,7 @@
 ```text
 OS        Windows Insider Experimental (Future Platforms)
 CPU       Intel Core Ultra 7 265K
-Board     Gigabyte B860M GAMING X WIFI 6E (rev 2.0)
+Board     Gigabyte B860M GAMING X WIFI 6E (rev 1.0)
 RAM       64 GB DDR5-6000 CL36 (G.Skill Trident Z5 Neo 2x32)
 GPU       Asus Dual RX 6600 + Gigabyte RTX 3050 6GB
 Storage   Kioxia Exceria Plus G3 1TB, WD Blue SN550 500GB,
