@@ -15,9 +15,9 @@
 
 <!-- VS Code icon: Codicons by Microsoft (github.com/microsoft/vscode-codicons), CC BY 4.0 -->
 <table align="center" width="100%">
-<tr><th width="25%">Skills, without AI assistance</th><th width="25%">Tools I use</th><th width="25%">AI agents</th><th width="25%">Operating Systems</th></tr>
+<tr><th width="33%">Skills, without AI assistance</th><th width="33%">Tools I use</th><th width="33%">AI agents</th></tr>
 <tr>
-<td width="25%" align="center" valign="top">
+<td width="33%" align="center" valign="top" rowspan="3">
 <a href="https://www.python.org/"><img src="./assets/badges/table/python.svg" alt="Python" width="100%"></a><br>
 <a href="https://developer.mozilla.org/docs/Web/JavaScript"><img src="./assets/badges/table/javascript.svg" alt="JavaScript" width="100%"></a><br>
 <a href="https://www.typescriptlang.org/"><img src="./assets/badges/table/typescript.svg" alt="TypeScript" width="100%"></a><br>
@@ -25,19 +25,22 @@
 <a href="https://developer.mozilla.org/docs/Web/HTML"><img src="./assets/badges/table/html5.svg" alt="HTML5" width="100%"></a><br>
 <a href="https://developer.mozilla.org/docs/Web/CSS"><img src="./assets/badges/table/css.svg" alt="CSS" width="100%"></a>
 </td>
-<td width="25%" align="center" valign="top">
+<td width="33%" align="center" valign="top" rowspan="3">
 <a href="https://git-scm.com/"><img src="./assets/badges/table/git.svg" alt="Git" width="100%"></a><br>
 <a href="https://learn.microsoft.com/windows/wsl/"><img src="./assets/badges/table/wsl.svg" alt="WSL" width="100%"></a><br>
 <a href="https://brave.com/download-nightly/"><img src="./assets/badges/table/brave-nightly.svg" alt="Brave Nightly" width="100%"></a><br>
 <a href="https://code.visualstudio.com/insiders/"><img src="./assets/badges/table/vscode-insiders.svg" alt="VS Code Insiders" width="100%"></a><br>
 <a href="https://www.kicad.org/"><img src="./assets/badges/table/kicad.svg" alt="KiCad" width="100%"></a>
 </td>
-<td width="25%" align="center" valign="top">
+<td width="33%" align="center" valign="top">
 <a href="https://claude.com/claude-code"><img src="./assets/badges/table/claude-code.svg" alt="Claude Code" width="100%"></a><br>
 <a href="https://antigravity.google"><img src="./assets/badges/table/google-antigravity.svg" alt="Google Antigravity" width="100%"></a><br>
 <a href="https://github.com/Accio-Lab/occamy"><img src="./assets/badges/table/occamy.svg" alt="Occamy 1.0 35B-A3B" width="100%"></a>
 </td>
-<td width="25%" align="center" valign="top">
+</tr>
+<tr><th width="33%">Operating Systems</th></tr>
+<tr>
+<td width="33%" align="center" valign="top">
 <a href="https://www.microsoft.com/windowsinsider/"><img src="./assets/badges/table/windows-experimental.svg" alt="Windows Experimental" width="100%"></a><br>
 <a href="https://ubuntu.com/server"><img src="./assets/badges/table/ubuntu-server.svg" alt="Ubuntu Server LTS 26.x" width="100%"></a><br>
 <a href="https://omarchy.org/"><img src="./assets/badges/table/omarchy.svg" alt="Omarchy 4.x" width="100%"></a>
