@@ -105,4 +105,5 @@ Extra     ESP32-S3 N16R8 control board
 <b>Email</b><br>
 <a href="mailto:contact@lnminh1411.is-a.dev">contact@lnminh1411.is-a.dev</a><br>
 <a href="mailto:it@bsb-travel.com">it@bsb-travel.com</a>
+<a href="mailto:founder@saccadeai.dev">founder@saccadeai.dev</a>
 </p>
